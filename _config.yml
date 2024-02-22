@@ -1,7 +1,7 @@
 # add the following to _config.yml file
 
 title: Soheil Tabatabaei M.
-Logo: /soheil.png
+logo: soheil.png
 show_downloads: true
 
 remote_theme: pages-themes/minimal@v0.2.0
