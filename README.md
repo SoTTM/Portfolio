@@ -1,10 +1,31 @@
 # Data Scientist
 
+---
+*Hi, I'm Soheil Tabatabaei*
+Today, I am embarking on a journey in the field of Artificial Intelligence (AI).
 
-### Education
-Tarbiat Modares University Tehran, Iran |
+Previously, I pursued studies in Control Engineering, where I explored the principles of stabilizing and controlling robots. Subsequently, I ventured into the 3D printing industry, working with FFF and DLP 3D printers. This experience ignited my interest in finding practical applications for 3D printing.
 
-MSC. COMPUTER SCiENCE (16.52/20) Sep. 2020 ‑ 2023 |
+During my time working in startups, I faced numerous challenges related to teamwork, startup dynamics, and scalability issues. These experiences provided me with valuable insights into markets and the importance of customer engagement. This led me to pursue self-education in marketing.
+
+My fascination with AI eventually drew me to the field. I focused on developing deep learning models, particularly in the area of Computer Vision. I continue to hone my skills in this area, striving to become a proficient data scientist.
+
+Throughout my career, I have been guided by the following messages:
+
+• Electrical Engineering: "Control Motors, Control Robots, Make the World a Better Place" and "Customize Things"
+• Marketing: "Know What Makes the World a Better Place, Grow Your Startup, then Scale Everything Else" and "Customize Your Service"
+• AI: "You Want to Make the World a Better Place? Gather Data for Everything, Design Models for It Better than Others, Analyze It for the Best Purpose, then Use the Results for a Better Place on Earth!"
+
+I believe that my diverse experiences and passion for AI make me an ideal candidate for your organization. I am eager to contribute my skills and knowledge to drive innovation and make a positive impact in the world.
+
+---
+
+
+
+# Education
+
+Tarbiat Modares University Tehran, Iran 
+MSC. COMPUTER SCiENCE (16.52/20) Sep. 2020 ‑ 2023 
 
 Thesis: Designing A Deep multi‑stage Generative Adversarial Network / Dr. Mansoor Rezghi 
 
@@ -119,6 +140,7 @@ Machines
 
 
 # Refrences
+
 Dr. Mansoor Rezghi (Matser Supervisor) | mrezghi.ir | rezghi@modares.ac.ir 
 
 Prof. Aliakbar Jalali | drjalali@gmail.com
