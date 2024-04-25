@@ -18,7 +18,9 @@ Previously, I pursued studies in Control Engineering, where I explored the princ
 
 > • AI: "You Want to influence? Gather Data for Everything, Design Models for It Better than Others, Analyze It for the Best Purpose, then Use the Results for a Better Place on Earth!"
 
-> I believe that my diverse experiences and passion for AI make me an ideal candidate for your organization. I am eager to contribute my skills and knowledge to drive innovation and make a positive impact in the world.
+> If you are a data scientist or AI_visioner or an related Company,  I believe It may be possible that my diverse experiences and passion for AI make me an ideal candidate for you. Want to test this? just talk to me! (sttmcanopus@gmail.com)
+
+> I am eager to contribute my skills and knowledge to drive innovation and make a positive impact in the world.
 
 ---
 
