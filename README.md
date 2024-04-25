@@ -15,17 +15,17 @@ Allameh Tabataba’i University (Withdraw from University in 3th midterm) Tehran
 MSC. MBA, MARKETiNG 2018 ‑ 2019
 
 
-### Teaching Expreciece 
+# Teaching Expreciece 
 Spring 2022 Deep Learning, Teaching Assistant Tarbiat Modares University
 Fall 2023 Machine Learning, Head Teaching Assistant Tarbiat Modares University
 Spring 2023 Deep Learning, Head Teaching Assistant Tarbiat Modares University
 Spring 2023 Special Topics in Artificial Intelligence, Head Teaching Assistant Tarbiat Modares University
 
-### Professional Experiences
+# Professional Experiences
 2021‑2023 Research Assistant | Supervisor: Dr. Rezghi , Computer Science lab (Tarbiat Modares university)
 2015‑2016 Research Assistant | Supervisor: Dr. Jalali , 3DPrinting Lab , Iran University of Science and Technology)
 
-### Publications
+# Publications
 [WORKiNG AND UNDER SUBMiTTiNG]
 Tabatabaei Mortazavi Soheil, Rezghi Mansoor . [Working paper]. Ripple Attention for Single Image Generation
 Tabatabaei Mortazavi Soheil, Rezghi Mansoor . [Submitting paper]. Stereographic Spherical Self‑Attention Gen‑
@@ -35,7 +35,7 @@ Mahmoudabadi Mohammad, Tabatabaei Mortazavi Soheil , Rezghi Mansoor . [Submitted
 Object‑wise Single Image to Single Image Translation
 
 
-### Notable Courses
+# Notable Courses
 MSC. Deep Learning(20/20)
 MSC. Data Mining(18/20)
 MSC. Seminar(20/20)
@@ -43,31 +43,31 @@ MSC. Final Project(19.4/20)
 BSC. Final Project(20/20)
 BSC. Special Topics in Control Engineering(19/20)
 
-### Skills
-## Programming: 
+# Skills
+### Programming: 
 Python (Pytorch , Tensorflow, OpenCV, Pandas, Numpy), git, Matlab
-## OS and Copmuter Skills: 
+### OS and Copmuter Skills: 
 Linux, Windows , ICDL , Debugging OS
-## Software: 
+### Software: 
 PyCharm, VSCode , Rhino, LabVIEW, Matlab(Simulink),
 Cura, Altium Designer, Proteus Design, LOGO Soft Comfort, SolidWorks
-## Control skills: 
+### Control skills: 
 Robotic specially 3D Printers (Design, Program, Control), Controllers
-## Business skills:
+### Business skills:
 Marketing Strategy and Research, Design Thinking, Consumer Behaviour
-## Data Science skills: 
+### Data Science skills: 
 Deep Generative Models(GANs, Diffusion models, Normalizing flow, VAEs),
 Machine Learning, Deep Learning (CNNs and Recurrent networks)
-# Tasks: 
+#### Tasks: 
 All Discriminative Tasks, Clutering, Classification,
 Generation Tasks (images), Inpainting, denoising, Super‑Resolution,
 Image to Image Translation, Segmentation, Few‑Shot Tasks
-# Others: 
+### Others: 
 Team working, Problem Solving
 
 
 
-### Work Experience
+# Work Experience
 2015‑2016 Official Member , Electrical Engineering Student Scientific Association
 
 2015‑2017 Cofounder Startup , Aroosha.Vision.Tech [Non‑Official]: A Startup about Designing and Building 3D‑Printing
@@ -76,7 +76,7 @@ Machines
 2017‑2019 Business Developer (Cofounder) , 3DFAST.ir : Online 3D‑Printing Service and Marketplace
 
 
-### Refrences
+# Refrences
 Dr. Mansoor Rezghi (Matser Supervisor) | mrezghi.ir | rezghi@modares.ac.ir 
 Prof. Aliakbar Jalali | drjalali@gmail.com
 Dr. Saeed Ebadollahi | s_ebadollahi@iust.ac.ir 
