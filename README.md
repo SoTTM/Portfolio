@@ -1,9 +1,7 @@
 
 
 ```
-~~~
 
-## Contact me:
 Please contact me with below email:
 
 **<sttmcanopus@gmail.com>**
@@ -14,18 +12,11 @@ or my phone number:
 
 My LinkedIn: **[here](https://www.linkedin.com/in/soheil-tabatabaei-mortazavi-67a29259/)**
 
-~~~
 ```
-
-
-
-
----
 
 
 # Data Scientist
 
----
 *Hi, I'm Soheil Tabatabaei Mortazavi*
 
 > Today, I am embarking on a journey in the field of Artificial Intelligence (AI).
