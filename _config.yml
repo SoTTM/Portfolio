@@ -5,7 +5,7 @@ logo: /soheil.png
 show_downloads: true
 
 
-
+color_scheme: dark
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
