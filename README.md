@@ -10,7 +10,7 @@ or my phone number:
 
 **+989388187179**
 
-My LinkedIn: **[here](https://www.linkedin.com/in/soheil-tabatabaei-mortazavi-67a29259/)**
+My LinkedIn: [here](https://www.linkedin.com/in/soheil-tabatabaei-mortazavi-67a29259/)
 
 ```
 
