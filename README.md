@@ -1,15 +1,13 @@
 
 
 ~~~
-Please contact me with below email:
+Please contact me with:
 
-**<sttmcanopus@gmail.com>**
+Mail: sttmcanopus@gmail.com
 
-or my phone number:
+Phone: +989388187179
 
-**+989388187179**
-
-My LinkedIn: [here](https://www.linkedin.com/in/soheil-tabatabaei-mortazavi-67a29259/)
+LinkedIn: https://www.linkedin.com/in/soheil-tabatabaei-mortazavi-67a29259
 ~~~
 
 
