@@ -14,7 +14,7 @@ or my phone number:
 # Data Scientist
 
 ---
-*Hi, I'm Soheil Tabatabaei*
+*Hi, I'm Soheil Tabatabaei Mortazavi*
 
 > Today, I am embarking on a journey in the field of Artificial Intelligence (AI).
 Previously, I pursued studies in Control Engineering, where I explored the principles of stabilizing and controlling robots. Subsequently, I ventured into the 3D printing industry, working with FFF and DLP 3D printers. This experience ignited my interest in finding practical applications for 3D printing.
