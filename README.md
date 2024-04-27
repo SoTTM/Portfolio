@@ -78,7 +78,7 @@ Spring 2023 Special Topics in Artificial Intelligence, Head Teaching Assistant T
 2015‑2016 Research Assistant | Supervisor: Dr. Jalali , 3DPrinting Lab , Iran University of Science and Technology)
 
 # Publications
-[WORKiNG AND UNDER SUBMiTTiNG]
+[WORKING AND UNDER SUBMITTING]
 
 Tabatabaei Mortazavi Soheil, Rezghi Mansoor . [Working paper]. Ripple Attention for Single Image Generation
 
