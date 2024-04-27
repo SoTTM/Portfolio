@@ -11,13 +11,13 @@ LinkedIn: https://www.linkedin.com/in/soheil-tabatabaei-mortazavi-67a29259
 ~~~
 
 
-# I am a Data Scientist 
-      Who works on Deep Learning Models
+# I am a Data Scientist who works on Deep Learning models!
 
 *Hi, I'm Soheil Tabatabaei Mortazavi*
 
-> Today, I am embarking on a journey in the field of Artificial Intelligence (AI).
-Previously, I pursued studies in Control Engineering, where I explored the principles of stabilizing and controlling robots. Subsequently, I ventured into the 3D printing industry, working with FFF and DLP 3D printers. This experience ignited my interest in finding practical applications for 3D printing.
+> Today, I am embarking on a journey in the field of Artificial Intelligence (AI) includes Machine Learning models, Deep Learning, Generative Ai (computer vision) and a lot of computer vision projects focused on images and videos.
+
+> Previously, I pursued studies in Control Engineering, where I explored the principles of stabilizing and controlling robots. Subsequently, I ventured into the 3D printing industry, working with FFF and DLP 3D printers. This experience ignited my interest in finding practical applications for 3D printing.
 
 > During my time working in startups, I faced numerous challenges related to teamwork, startup dynamics, and scalability issues. These experiences provided me with valuable insights into markets and the importance of customer engagement. This led me to pursue self-education in marketing.
 
