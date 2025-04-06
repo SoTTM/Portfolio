@@ -79,17 +79,22 @@ Spring 2023 Special Topics in Artificial Intelligence, Head Teaching Assistant T
 2015‑2016 Research Assistant | Supervisor: Dr. Jalali , 3DPrinting Lab , Iran University of Science and Technology)
 
 # Publications
-[WORKING AND UNDER SUBMITTING]
 
-Tabatabaei Mortazavi Soheil, Rezghi Mansoor . [Working paper]. Ripple Attention for Single Image Generation
 
-Tabatabaei Mortazavi Soheil, Rezghi Mansoor . [Submitting paper]. Stereographic Spherical Self‑Attention Gen‑
-erative Adversarial Network
+Soheil Tabatabaei Mortazavi, Mansoor Rezghi. [Working paper]. Ripple Attention for Single Image Generation.
 
-Tabatabaei Mortazavi Soheil, Rezghi Mansoor . [Working paper]. A Taxonomy on Generative Adversarial Nets
+Soheil Tabatabaei Mortazavi,  Mansoor Rezghi. [Submitted paper]. Stereographic Spherical  Self-Attention Generative Adversarial Network.
+    
+Soheil Tabatabaei Mortazavi, Mansoor Rezghi. [Working paper]. A Taxonomy on Generative Adversarial Nets.
 
-Mahmoudabadi Mohammad, Tabatabaei Mortazavi Soheil , Rezghi Mansoor . [Submitted paper]. Towards
-Object‑wise Single Image to Single Image Translation
+Soheil Tabatabaei Mortazavi, Mansoor Rezghi. [Working paper]. Centrality-based Spectral Clustering.
+
+
+Mohammad Mahmoudabadi, Soheil Tabatabaei Mortazavi, Mansoor Rezghi. [Submitted paper]. Mask-Guided Object-Aware Single Image-to-Image Translation Using Multi-scale GANs.
+
+Mitra Nemati, Soheil Tabatabaei Mortazavi, Mansoor Rezghi. [Working paper]. End-to-end GNN-based emotion recognition of EEG signals with a learnable brain network.
+
+cvpub{Bahar Mahdavi, Soheil Tabatabaei Mortazvi, Muhammad moein Salehi nejad, Mehdi Rajabizadeh, Mansoor Rezghi. Innovative Dictionary Learning and Sparse Coding for Effective Feature Selection in Cancer Gene Expression Data. October 2024. The 2nd International Congress of Cancer Genomics (CGC2024). Tehran.
 
 
 # Notable Courses
