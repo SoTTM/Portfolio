@@ -100,7 +100,7 @@ MSC. Data Mining(18/20)
 
 MSC. Seminar(20/20)
 
-MSC. Final Project(19.4/20)
+MSC. Thesis(19.4/20)
 
 BSC. Final Project(20/20)
 
@@ -110,29 +110,31 @@ BSC. Special Topics in Control Engineering(19/20)
 
 ### Programming: 
 
-Python (Pytorch , Tensorflow, OpenCV, Pandas, Numpy), git, Matlab
+Python (PyTorch , TensorFlow, OpenCV, Pandas, NumPy, SciPy), git, Matlab, SQL. 
 
 ### OS and Copmuter Skills: 
 
-Linux, Windows , ICDL , Debugging OS
+Linux/Windows OS, Raspberry Pi, Arduino.
 
 ### Software: 
-
-PyCharm, VSCode , Rhino, LabVIEW, Matlab(Simulink),
-Cura, Altium Designer, Proteus Design, LOGO Soft Comfort, SolidWorks
+PyCharm, VS-Code , LabVIEW, Matlab(Simulink), UltiMaker Cura, Altium Designer,
+Proteus Design, LOGO Soft Comfort.
 
 ### Control skills: 
 
-Robotic specially 3D Printers (Design, Program, Control), Controllers
+Robotics -Specially 3D Printers (Design, Program, Control)-.
+
+### Control Works: 
+3DPrinters: FDM (Delta, Cartesian), PLCs, Servo Motor Control, Digital Control, closed-loop control systems.
 
 ### Business skills:
 
-Marketing Strategy and Research, Design Thinking, Consumer Behaviour
+Marketing Strategy and Market Research, Design Thinking, Consumer Behavior, Startup Valuation.
 
-### Data Science skills: 
+### Data Science/Engineering Works:
 
-Deep Generative Models(GANs, Diffusion models, Normalizing flow, VAEs),
-Machine Learning, Deep Learning (CNNs and Recurrent networks)
+Deep Generative Models (GANs, Diffusion models, Normalizing flow, VAEs), Machine Learning, Deep Learning (CNNs ,
+GNNs, Recurrent Networks, Large Language Models.), Graph Neural Networks.
 
 #### Tasks: 
 
@@ -148,13 +150,17 @@ Team working, Problem Solving
 
 # Work Experience
 
-2015‑2016 Official Member , Electrical Engineering Student Scientific Association
+2015‑2016. Electrical Engineering Student Scientific Association. Official Member.
 
-2015‑2017 Cofounder Startup , Aroosha.Vision.Tech [Non‑Official]: A Startup about Designing and Building 3D‑Printing
-Machines
+2015‑2017.  Aroosha Vision Tech Sratup. Co-founder @Startup [Non-Official]: An Startup about Designing and Building 3D-Printing Machines.
+2017‑2019. 3DFAST Company. Co-founder @ 3DFAST.ir : Online 3D-Printing Service and Marketplace.
 
-2017‑2019 Business Developer (Cofounder) , 3DFAST.ir : Online 3D‑Printing Service and Marketplace
+# Others
 
+Fall 2019. Teacher.  Webinar About 3D-Printers Technology, Basis and Industries(Evand). 3DFAST.
+Spring 2018. Teacher. Workshop: A Day with 3D-Printing Industry (Evand).
+Spring 2018. Event Manager. Managing The Event Team for an Interactive Pavilion with AR/VR (ELECOMP). 3DFAST.
+June 2023. Webinar Speech. Speech "Introduction to Computer Science and Generative Networks" (YouTube). DeepTen Lab.
 
 # Refrences
 
@@ -163,3 +169,9 @@ Dr. Mansoor Rezghi (Matser Supervisor) | mrezghi.ir | rezghi@modares.ac.ir
 Prof. Aliakbar Jalali | drjalali@gmail.com
 
 Dr. Saeed Ebadollahi | s_ebadollahi@iust.ac.ir 
+
+Dr. Ali Rajaei | alirajaei@modares.ac.ir
+
+# Notice
+
+This CV is confidential and intended solely for the designated recipient(s) as expressly authorized by SOHEIL TABATABAEI MORTAZAVI (the owner) or provided directly by the owner. Any unauthorized review, use, disclosure, copying, reproduction, or distribution—whether in whole or in part, in any form or medium—is strictly prohibited and may result in legal action. If you have received this document in error, please notify the sender immediately and permanently delete or destroy all copies. After the CV Expiration Date, all information contained herein is subject to revision at the sole discretion of the owner, SOHEIL TABATABAEI MORTAZAVI. The owner is under no obligation to distribute any revised version. The owner shall not be responsible for defending or proving the accuracy of the data at any time.
